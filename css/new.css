@@ -1,0 +1,35 @@
+*
+{
+	font-style: bold;
+	font-size: 18px;
+}
+#description
+{
+	display: block;
+}
+#comments
+{
+	font-family:sans-serif;
+	font-size:1.2em;
+}
+#specification
+{
+	display: none;
+}
+input[type=file]
+{
+	display: none;
+}
+.Upload
+{
+	border-radius: 10px;
+	text-align: center;
+}
+#wheeler2
+{
+	display: block;
+}
+#wheeler4
+{
+	display: none;
+}
